@@ -1,0 +1,68 @@
+﻿body {
+}
+
+#hgkbrk {
+    color: red;
+}
+
+#hsml {
+    color: deeppink;
+}
+
+#hygt {
+    color: rgb(250,125,62)
+}
+
+#mavi {
+    color: blue;
+}
+
+#hvl {
+    color: #335223;
+}
+
+#hm {
+    color: #584850
+}
+
+.ogrenci {
+    font-family: Verdana;
+}
+
+#dv1 {
+    background-color: red;
+}
+
+#dv2 {
+    background-color: darkred;
+}
+
+#dv3 {
+    background-color: darkmagenta;
+}
+
+#dv4 {
+    background-color: #6256fe;
+}
+
+#dv5 {
+    background-color: #3e58d7;
+}
+
+#dv6 {
+    background-color: #0e2079;
+}
+
+.dvWhiteText {
+    color: white;
+    font-weight: bold;
+}
+
+#dvMain1 {
+    /*   border-top-style:dashed;
+   border-top-color:black;
+   border-top-width:2px;*/
+   /* border-top: 2px dashed black;*/
+   border:2px dashed #d1d0d0;
+   margin:10px 10px 10px 10px;
+}
