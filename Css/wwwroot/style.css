@@ -66,3 +66,62 @@
    border:2px dashed #d1d0d0;
    margin:10px 10px 10px 10px;
 }
+
+
+.box{
+    height:120px;
+}
+#dv7{
+    background-color:darkmagenta;
+    width:110px;
+    color:white;
+    border:5px solid lightgray;
+    height:110px;
+}
+
+#dv8{
+    background-color:darkgreen;
+    width:120px;
+}
+
+#dv9{
+    background-color:darkred;
+    width:100px;
+    padding:10px;
+    height:100px;
+}
+
+/**child seçici*/
+#dv9 > div{
+    background-color:white;
+    width:100px;
+    height:100px;
+}
+
+.clear{
+    clear:both; /*float bozulmalarını düzeltir...*/
+}
+
+.container{
+    width:770px;
+    margin:10px auto 10px auto;
+}
+
+.kutu{
+    width:250px;
+    height:250px;
+    float:left;
+    margin-right:10px;
+}
+.kutu:last-child{
+    margin-right:0px;
+}
+#dv11 {
+    background-color: #6256fe;
+}
+#dv12 {
+    background-color: #3e58d7;
+}
+#dv13 {
+    background-color: #0e2079;
+}
